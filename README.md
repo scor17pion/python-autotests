@@ -1,2 +1,2 @@
 # python-autotests
-homeworks to course
+homeworks to course on stepik
